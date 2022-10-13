@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @szewczyk-agnieszka
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+
+### Languages and Tools:
+[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" style="padding-right:10px;" />](https://www.python.org/)
+
+
+
+
