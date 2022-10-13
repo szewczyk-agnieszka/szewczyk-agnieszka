@@ -1,9 +1,6 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/110910473/195703482-f6f7bfe0-2863-4c4a-9b02-bc280b128ee1.png" style="float: right;" >
-</p>
-
 <h1 align="center">Hi 👋, I'm Agnieszka Szewczyk</h1>
 <h3 align="center">A passionate math teacher and data scientist from Poland</h3>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/110910473/195703482-f6f7bfe0-2863-4c4a-9b02-bc280b128ee1.png">
 
 - 🔭 I’m currently working on **bla bla**
 
