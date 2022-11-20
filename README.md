@@ -2,7 +2,6 @@
 <h3 align="center">A passionate math teacher and data scientist from Poland</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/110910473/195703482-f6f7bfe0-2863-4c4a-9b02-bc280b128ee1.png">
 
-- 🔭 I’m currently working on **bla bla**
 
 - 🌱 I’m currently learning **Data Science for Business**
 
@@ -10,10 +9,7 @@
 
 - 📫 How to reach me **szewczyk.agnieszka.maria@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/***" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="***" height="30" width="40" /></a>
-</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
